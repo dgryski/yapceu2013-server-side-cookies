@@ -291,7 +291,8 @@ FIXME: kill() doesn't have kill(2) semantics
   - data centers
 
 ```perl
-my $pkt = pack("CCVv/avV/aV/aC/C", @args)```
+my $pkt = pack("CCVv/avV/aV/aC/C", @args)
+```
 
 ---
 
@@ -310,7 +311,8 @@ class: center, middle
   - data centers
 
 ```perl
-my $pkt = pack("CCVv/aC/C", @args)```
+my $pkt = pack("CCVv/aC/C", @args)
+```
 
 ---
 
